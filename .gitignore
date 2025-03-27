@@ -1,0 +1,35 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+
+# Virtual environment
+venv/
+Hailbot/
+.venv/
+
+# Environment variables
+.env
+
+
+# IDEs and editors
+.vscode/
+
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+temp/
+
+
+
+# Project-specific ignores
+chroma_db/ 

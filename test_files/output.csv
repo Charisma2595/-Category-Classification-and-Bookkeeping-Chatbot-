@@ -1,0 +1,7 @@
+description,amount,category,confidence,needs_review
+UBER TRIP,35.2,Travel,0.99,False
+BRITISH GAS,89.99,Utilities,0.99,False
+PAYROLL TRANSFER,2500.0,Payroll,0.95,False
+SALARY PAYMENT,3000.0,Payroll,0.95,False
+GOOGLE CLOUD,150.0,Software & IT,0.6901897253704542,True
+GOOGLE CLOUDTRAINING,450.0,Software & IT,0.7092293513417335,False
