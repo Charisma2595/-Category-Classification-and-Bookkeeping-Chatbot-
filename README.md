@@ -34,6 +34,10 @@ Groq API Key: Required for the LLM component
 ## Setup
 
 1. Clone this repository
+   ```
+   git clone git@github.com:Charisma2595/-Category-Classification-and-Bookkeeping-Chatbot-.git
+   ```
+
 2. Install dependencies:
    ```
    pip install -r requirements.txt
